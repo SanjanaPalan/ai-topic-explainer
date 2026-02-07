@@ -18,3 +18,15 @@ View your app in AI Studio: https://ai.studio/apps/temp/2
 2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
 3. Run the app:
    `npm run dev`
+
+
+  # AI Concept Explainer
+
+A simple educational web app built using React, TypeScript, and Google AI Studio (Gemini API).
+
+## Learning Outcome
+- Explored Google AI Studio
+- Worked with Gemini API
+- Built a React + TypeScript project
+- Understood API key handling and Git workflow
+
