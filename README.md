@@ -25,3 +25,4 @@ A simple educational web app built using React, TypeScript, and Google AI Studio
 - Built a React + TypeScript project
 - Understood API key handling and Git workflow
 
+![WhatsApp Image 2026-02-07 at 21 48 16](https://github.com/user-attachments/assets/489928e0-864c-4178-81ec-74d24349b834)
